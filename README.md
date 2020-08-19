@@ -1,2 +1,6 @@
 # flutter_test_startup_namer
- flutter test
+
+
+Trying out flutter
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/
